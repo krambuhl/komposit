@@ -2,12 +2,21 @@
   "name": "komposit",
   "description": "For creating functional compositions",
   "homepage": "https://github.com/krambuhl/komposit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "tape tests/*.js | tap-spec"
   },
+  "keywords": [
+    "combintors",
+    "functional programming",
+    "functional combintators",
+    "fp"
+  ],
+  "authors": [
+    "Evan Krambuhl <thekrambuhl@gmail.com>"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:krambuhl/komposit.git"
